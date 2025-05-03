@@ -41,12 +41,7 @@ Perform visual and statistical exploration of the Titanic dataset to extract ins
 ### E. Correlation
 - Heatmap of numeric columns to reveal feature correlations.
 
-### F. Summary
-- Survival is higher in females and 1st class passengers.
-- `Fare` and `Pclass` show strong relationship with survival.
-- `Cabin` has many missing values; `Age` also needs imputation.
 
----
 
 ## 📈 Outcome
 - Developed skills in visualizing patterns and discovering trends.
