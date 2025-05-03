@@ -56,7 +56,12 @@ Perform visual and statistical exploration of the Titanic dataset to extract ins
 
 ---
 
-## ❓ Interview Preparation![Screenshot 2025-05-03 235402](https://github.com/user-attachments/assets/9a192255-c922-4eab-983d-d44a993caf1d)
+[Screenshot 2025-05-03 235402](https://github.com/user-attachments/assets/9a192255-c922-4eab-983d-d44a993caf1d)
+![Screenshot 2025-05-03 235438](https://github.com/user-attachments/assets/5d28daf5-f2f7-4bab-9049-a16590080832)![Screenshot 2025-05-03 235446](https://github.com/user-attachments/assets/422879df-31bc-43b4-abec-d1b8d260fcb5)
+
+
+
+## ❓ Interview Preparation!
 
 - What is EDA and why is it important?
 - Which plots help detect correlation?
