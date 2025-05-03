@@ -56,7 +56,8 @@ Perform visual and statistical exploration of the Titanic dataset to extract ins
 
 ---
 
-## ❓ Interview Preparation
+## ❓ Interview Preparation![Screenshot 2025-05-03 235402](https://github.com/user-attachments/assets/9a192255-c922-4eab-983d-d44a993caf1d)
+
 - What is EDA and why is it important?
 - Which plots help detect correlation?
 - How do you handle skewed data?
@@ -66,5 +67,5 @@ Perform visual and statistical exploration of the Titanic dataset to extract ins
 
 ---
 
-**Author**: _(Your Name)_  
-**Date**: May 2025
+**Author**: mohammad aas khan
+**Date**:28 April 2025
